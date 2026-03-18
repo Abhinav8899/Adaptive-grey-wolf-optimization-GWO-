@@ -1,6 +1,6 @@
-# Augmented Grey Wolf Optimizer (AGWO) for UAV Path Planning
+# Adaptive Grey Wolf Optimizer (AGWO) for UAV Path Planning
 
-A Python implementation of an **Augmented Grey Wolf Optimizer (AGWO)** specifically tuned for 3D path planning. This project applies bio-inspired optimization to find efficient, collision-free trajectories for autonomous agents like UAVs in complex environments.
+A Python implementation of an **Adaptive Grey Wolf Optimizer (AGWO)** specifically tuned for 3D path planning. This project applies bio-inspired optimization to find efficient, collision-free trajectories for autonomous agents like UAVs in complex environments.
 
 ## 🛠 Features
 * **Bio-Inspired Optimization:** Mimics the leadership hierarchy and hunting mechanism of grey wolves to find optimal paths.

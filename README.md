@@ -24,3 +24,27 @@ pip install numpy
    cd AGWO
    ```
 
+## 📊 Performance Benchmarking
+
+The AGWO implementation is evaluated based on its ability to minimize path length while maintaining a 100% collision-free trajectory. The provided benchmark scripts simulate different 3D obstacle densities to test the optimizer's convergence.
+
+### How to Run
+Execute the following scripts to see the solver in action:
+
+```bash
+# Scenario 1: Open space with sparse obstacles
+python benchmarksingle1.py
+
+# Scenario 2: Intermediate complexity (Mixed box and sphere clusters)
+python benchmarksingle2.py
+
+# Scenario 3: High-density 3D maze environment
+python benchmarksingle3.py
+```
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

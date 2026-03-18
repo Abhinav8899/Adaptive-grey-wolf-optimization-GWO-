@@ -20,8 +20,8 @@ pip install numpy
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Abhinav8899/AGWO.git](https://github.com/Abhinav8899/AGWO.git)
-   cd AGWO
+   git clone https://github.com/Abhinav8899/Adaptive-grey-wolf-optimization-GWO-.git
+   cd Adaptive-grey-wolf-optimization-GWO-
    ```
 
 ## 📊 Performance Benchmarking
